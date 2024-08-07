@@ -1,0 +1,20 @@
+body{
+  background-color: rgb(234, 232, 230);
+}
+.usercard{
+  margin: 50px 0 0 550px;
+  padding: 20px;
+  border: 1px solid steelblue;
+  box-shadow: 10px 10px rgb(218, 231, 236);
+  border-radius: 10px;
+  width: 200px;
+  text-align: center;
+  background-color: rgb(241, 246, 248);
+}
+
+button{
+  margin: 20px 0 0 45%;
+  padding: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 16px;
+}
